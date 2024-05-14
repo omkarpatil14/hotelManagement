@@ -1,0 +1,127 @@
+[
+  {
+    "hotelName": "The Grand Hotel BD",
+    "location": "sylhet",
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/231301021.jpg?k=6d7558402501942607ed933f1b3da2042b748f5218c30f88c4992a6c73f56698&o=&hp=1",
+    "description": "Located in Sylhet, The Grand Hotel BD offers 3-star accommodations with a terrace and a restaurant. This 3-star hotel offers an ATM and a concierge service.",
+    "price": "1400",
+    "slots": [
+      "101",
+      "102",
+      "103",
+      "104",
+      "105",
+      "106",
+      "107",
+      "108",
+      "109",
+      "110"
+    ],
+    "time": [
+      "08.00 AM - 12.00 AM",
+      "12.00 AM - 04.00 PM",
+      "04.00 PM - 08.00 PM",
+      "08.00 PM - 12.00 AM"
+    ]
+  },
+  {
+    "hotelName": "Hotel Valley Garden",
+    "location": "sylhet",
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/3f/bc/1b/hotel-valley-garden.jpg?w=1000&h=-1&s=1",
+    "description": "Offering a restaurant, Hotel Valley Garden is located in Sylhet and is 1.2 mi from Hazrat Shahjalal Mazar. Free Wi-Fi access is available.",
+    "price": "3328",
+    "slots": [
+      "101",
+      "102",
+      "103",
+      "104",
+      "105",
+      "106",
+      "107",
+      "108",
+      "109",
+      "110"
+    ],
+    "time": [
+      "08.00 AM - 12.00 AM",
+      "12.00 AM - 04.00 PM",
+      "04.00 PM - 08.00 PM",
+      "08.00 PM - 12.00 AM"
+    ]
+  },
+  {
+    "hotelName": "Rose View Hotel",
+    "location": "sylhet",
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265937732.jpg?k=00f658464ffa0f5744fc1935dbadefdba3fe75b55faf34eb4bc8cce7d515df8a&o=&hp=1",
+    "description": "Offering an indoor swimming pool, 3 dining options and a fitness center, Rose View Hotel is located in Sylhet. Activities like table tennis can be enjoyed. Free WiFi access is available.",
+    "price": "5335",
+    "slots": [
+      "101",
+      "102",
+      "103",
+      "104",
+      "105",
+      "106",
+      "107",
+      "108",
+      "109",
+      "110"
+    ],
+    "time": [
+      "08.00 AM - 12.00 AM",
+      "12.00 AM - 04.00 PM",
+      "04.00 PM - 08.00 PM",
+      "08.00 PM - 12.00 AM"
+    ]
+  },
+  {
+    "hotelName": "Richmond Hotel & Suites",
+    "location": "Dhaka",
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192524820.jpg?k=63ad652ae550bc9038f0375523e3ded3879b613e57ce422e537884a033174668&o=&hp=1",
+    "description": "Located just 1.3 km from Shahjalal International Airport, Richmond Hotel & Suites operates a 24-hour front desk to ease check-in and check-out at all hours. Free Wi-Fi is available in all areas",
+    "price": "3510",
+    "slots": [
+      "101",
+      "102",
+      "103",
+      "104",
+      "105",
+      "106",
+      "107",
+      "108",
+      "109",
+      "110"
+    ],
+    "time": [
+      "08.00 AM - 12.00 AM",
+      "12.00 AM - 04.00 PM",
+      "04.00 PM - 08.00 PM",
+      "08.00 PM - 12.00 AM"
+    ]
+  },
+  {
+    "hotelName": "Radisson blu Dhaka Water Garden",
+    "location": "Dhaka",
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232835662.jpg?k=a3f959f878157418ef6d0a80b6e8719bbaadf15608e9f3868aab109e34bd1340&o=&hp=1",
+    "description": "Offering an outdoor pool and a spa and wellness centre, Radisson Blu Water Garden Hotel Dhaka offers free Wi-Fi access throughout the property.",
+    "price": "14510",
+    "slots": [
+      "101",
+      "102",
+      "103",
+      "104",
+      "105",
+      "106",
+      "107",
+      "108",
+      "109",
+      "110"
+    ],
+    "time": [
+      "08.00 AM - 12.00 AM",
+      "12.00 AM - 04.00 PM",
+      "04.00 PM - 08.00 PM",
+      "08.00 PM - 12.00 AM"
+    ]
+  }
+]
